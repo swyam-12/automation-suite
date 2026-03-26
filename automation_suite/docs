@@ -1,0 +1,30 @@
+AUTOMATION SUITE DOCUMENTATION
+
+Project Overview:
+This project is a Python-based automation suite.
+
+Modules:
+- File Organizer
+- Web Scraper
+- Email Automation
+- System Monitor
+
+Setup:
+Install required libraries:
+pip install requests beautifulsoup4 schedule psutil
+
+How to Run:
+Run GUI using:
+py gui_app.py
+
+Code Structure:
+Each module performs a specific automation task.
+
+Features:
+- Automation
+- Scheduling
+- GUI
+- Logging
+
+Conclusion:
+This project demonstrates automation and integration using Python.
